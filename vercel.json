@@ -1,0 +1,18 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "rewrites": [
+    {
+      "source": "/js/pa.js",
+      "destination": "https://t.chasecee.com/js/pa-_LvT67zlvOSqC5ao41swJ.js"
+    },
+    {
+      "source": "/js/event",
+      "destination": "https://t.chasecee.com/api/event"
+    },
+    {
+      "source": "/js/event/",
+      "destination": "https://t.chasecee.com/api/event"
+    }
+  ]
+}
